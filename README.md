@@ -57,7 +57,7 @@ Recreate the following elements using **HTML** and **CSS**:
 
 - Make the navigation responsive, collapsing icons on smaller screens.
 
-- Add hover effects—like scaling thumbnails or highlighting video cards.
+- Add hover effects, such as scaling thumbnails or highlighting video cards.
 
 - Implement a clock icon next to the view count to mimic YouTube’s UI details.
 
