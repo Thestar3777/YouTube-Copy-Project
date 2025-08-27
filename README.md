@@ -26,7 +26,7 @@ Recreate the following elements using **HTML** and **CSS**:
    git clone https://github.com/Thestar3777/YouTube-Copy-Project.git
    cd YouTube-Copy-Project
 
-2. Open index.html in your browser to view the layout.
+2. Open youtube.html in your browser to view the layout.
 
 3. To work locally with live-reload support, use a simple dev server like: npx live-server
 
@@ -41,7 +41,6 @@ Create a header for the navigation bar, complete with buttons or icons for Searc
 Use semantic HTML structure for video entries (e.g., ```<article>, <h3>, <p>```).
 
 Populate with placeholder text like Talking Tech and AI with Google CEO Sundar Pichai!, Marques Brownlee, 3.4M views · 6 months ago, etc. 
-supersimple.dev
 
 ## CSS:
 
