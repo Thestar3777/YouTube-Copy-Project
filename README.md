@@ -38,7 +38,7 @@ Recreate the following elements using **HTML** and **CSS**:
 
 Create a header for the navigation bar, complete with buttons or icons for Search, Create, Apps, Notifications, etc.
 
-Use semantic HTML structure for video entries (e.g., <article>, <h3>, <p>).
+Use semantic HTML structure for video entries (e.g., '<article>, <h3>, <p>').
 
 Populate with placeholder text like Talking Tech and AI with Google CEO Sundar Pichai!, Marques Brownlee, 3.4M views · 6 months ago, etc. 
 supersimple.dev
