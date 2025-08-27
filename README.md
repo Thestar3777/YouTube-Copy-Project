@@ -10,6 +10,7 @@ Recreate the following elements using **HTML** and **CSS**:
 
 - Top navigation bar with icons: Search, Create, Apps, Notifications, etc.
 - A grid or list of video previews, including:
+  
   - Thumbnail images
   - Video titles
   - Channel names
@@ -36,31 +37,31 @@ Recreate the following elements using **HTML** and **CSS**:
 
 ## HTML: 
 
-Create a header for the navigation bar, complete with buttons or icons for Search, Create, Apps, Notifications, etc.
+- Create a header for the navigation bar, complete with buttons or icons for Search, Create, Apps, Notifications, etc.
 
-Use semantic HTML structure for video entries (e.g., ```<article>, <h3>, <p>```).
+- Use semantic HTML structure for video entries (e.g., ```<article>, <h3>, <p>```).
 
-Populate with placeholder text like Talking Tech and AI with Google CEO Sundar Pichai!, Marques Brownlee, 3.4M views · 6 months ago, etc. 
+- Populate with placeholder text like Talking Tech and AI with Google CEO Sundar Pichai!, Marques Brownlee, 3.4M views · 6 months ago, etc. 
 
 ## CSS:
 
-Style your header (e.g., fixed position, background color).
+- Style your header (e.g., fixed position, background color).
 
-Use Flexbox or CSS Grid to layout video thumbnails in responsive rows or columns.
+- Use Flexbox or CSS Grid to layout video thumbnails in responsive rows or columns.
 
-Style typography and spacing to echo the YouTube aesthetic.
+- Style typography and spacing to echo the YouTube aesthetic.
 
 ---
 
 ## Optional Enhancements
 
-Make the navigation responsive, collapsing icons on smaller screens.
+- Make the navigation responsive, collapsing icons on smaller screens.
 
-Add hover effects—like scaling thumbnails or highlighting video cards.
+- Add hover effects—like scaling thumbnails or highlighting video cards.
 
-Implement a clock icon next to the view count to mimic YouTube’s UI details.
+- Implement a clock icon next to the view count to mimic YouTube’s UI details.
 
-Swap out placeholder images for real ones or use a placeholder image service.
+- Swap out placeholder images for real ones or use a placeholder image service.
 
 ---
 
