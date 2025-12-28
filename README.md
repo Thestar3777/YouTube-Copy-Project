@@ -40,5 +40,5 @@ The repository is organized into the following folders to keep assets and styles
 * **Video Grid:** a responsive layout displaying video thumbnails, titles, and channel information.
 
 ---
-*Created by [Thestar3777](https://github.com/Thestar3777)*
+
 
