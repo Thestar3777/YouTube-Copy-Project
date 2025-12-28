@@ -2,7 +2,7 @@
 
 A recreation of the main page of YouTube using only HTML and CSS. This project mimics the layout, styling, and visual design of the YouTube homepage.
 
-https://github.com/user-attachments/assets/9939129b-e171-4ab0-bb98-7c366b063c61
+![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/88c304a1-75cd-453e-9b91-6798893029a0)
 
 ## 🔗 Live Demo
 Check out the live version of the project here:
@@ -41,3 +41,4 @@ The repository is organized into the following folders to keep assets and styles
 
 ---
 *Created by [Thestar3777](https://github.com/Thestar3777)*
+
