@@ -1,4 +1,4 @@
-# YouTube Copy Project
+# YouTube Clone
 
 A recreation of the main page of YouTube using only HTML and CSS. This project mimics the layout, styling, and visual design of the YouTube homepage.
 
@@ -40,5 +40,6 @@ The repository is organized into the following folders to keep assets and styles
 * **Video Grid:** a responsive layout displaying video thumbnails, titles, and channel information.
 
 ---
+
 
 
